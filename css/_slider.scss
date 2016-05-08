@@ -1,0 +1,13 @@
+.slider {
+    background-color: #313131;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    .carousel {
+        padding: 0;
+        .item {
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
